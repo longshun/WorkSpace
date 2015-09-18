@@ -6,7 +6,7 @@ import android.os.Bundle;
 public class MyActivity extends Activity {
     /**
      * Called when the activity is first created.
-     * test
+     *
      */
     @Override
     public void onCreate(Bundle savedInstanceState) {

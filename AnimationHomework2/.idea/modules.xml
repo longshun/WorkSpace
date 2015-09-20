@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnimationHomework2.iml" filepath="$PROJECT_DIR$/AnimationHomework2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PropertyAnimation/PropertyAnimation.iml" filepath="$PROJECT_DIR$/PropertyAnimation/PropertyAnimation.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnimationHomework.iml" filepath="$PROJECT_DIR$/AnimationHomework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MenuAnimation/MenuAnimation.iml" filepath="$PROJECT_DIR$/MenuAnimation/MenuAnimation.iml" />
+    </modules>
+  </component>
+</project>
